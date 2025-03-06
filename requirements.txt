@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+httpx
+asyncio
+langchain-ollama
+langchain-core
+langchain-text-splitters
